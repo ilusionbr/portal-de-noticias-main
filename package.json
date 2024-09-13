@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Site de noticias",
   "main": "noticias.js",
-  "scripts": {
+  /*"scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  },*/
   "author": "Eduardo",
   "license": "ISC",
   "dependencies": {
@@ -17,3 +17,6 @@
     "mysql": "^2.13.0"
   }
 }
+
+
+//Edited
