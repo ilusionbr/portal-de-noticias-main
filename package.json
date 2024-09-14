@@ -2,7 +2,7 @@
   "name": "portal_noticias",
   "version": "1.0.0",
   "description": "Site de noticias",
-  "main": "noticias.js",
+  "main": "app.js",
   "author": "Eduardo",
   "license": "ISC",
   "dependencies": {
