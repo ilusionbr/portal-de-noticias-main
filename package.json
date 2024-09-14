@@ -4,6 +4,9 @@
   "description": "Site de noticias",
   "main": "app.js",
   "author": "Eduardo",
+  "scripts": {
+    "start": "node ./config/server.js"
+}
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
