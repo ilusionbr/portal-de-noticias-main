@@ -2,7 +2,7 @@
   "name": "portal_noticias",
   "version": "1.0.0",
   "description": "Site de noticias",
-  "main": "app.js",
+  "main": "noticias.js",
   "author": "Eduardo",
   "scripts": {
     "start": "node app.js"
